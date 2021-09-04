@@ -1,4 +1,4 @@
-from mytest import NumberFormatter
+from NumberFormatter import NumberFormatter
 import unittest.mock
 import unittest
 
